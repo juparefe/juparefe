@@ -2,13 +2,16 @@
 
 ## Hi there 👋
 
-Soy Juan Pablo Rendon, un desarrollador web Front-End con habilidades para la gestión de proyectos y el desarrollo de sitios y aplicaciones web con HTML, CSS, SASS y JavaScript, además del uso de frameworks como Bootstrap y REACT. Con conocimientos en Java, R y en bases de datos relacionales y no relacionales como MySQL y MongoDB. 
+Soy Juan Pablo Rendon, un desarrollador web Full-Stack con habilidades para la gestión de proyectos y el desarrollo de sitios y aplicaciones web con HTML, CSS, SASS y JavaScript/TypeScript, además del uso de frameworks como Bootstrap y Angular. Con conocimientos en Java, R y en bases de datos relacionales y no relacionales como MySQL y MongoDB. 
 
 Me caracterizo por mi capacidad para resolver problemas creativamente, así como para trabajar en equipos remotos y el aprendizaje continuo. 
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Lenguajes utilizados en los repositorios: 
 
